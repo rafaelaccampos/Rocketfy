@@ -1,6 +1,6 @@
 ## Rocketfy
 
-Recriando a interface do Pipefy com React seguindo a vídeo aula da Rockeatseat / Diego Fernandes.
+Recriando a interface do Pipefy com React seguindo a vídeo aula da Rocketseat / Diego Fernandes.
 
 ## Link do Vídeo da RockeatSeat
 

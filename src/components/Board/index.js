@@ -7,7 +7,10 @@ import { Container } from './styles';
 export default function Board() {
     return (
         <Container>
-
+            <List />
+            <List />
+            <List />
+            <List />
         </Container>
     );
 }
